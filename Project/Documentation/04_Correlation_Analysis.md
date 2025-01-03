@@ -139,5 +139,3 @@
 3. **Next Steps**:
    - Prioritize numerical variables (e.g., Anxiety Value, Stress Value) in predictive models.
    - Explore outliers or anomalies in these relationships to uncover additional insights.
-
-Would you like a detailed interpretation of a specific pair or assistance with predictive modeling?

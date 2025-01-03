@@ -57,5 +57,3 @@
 
 4. **Outlier Analysis**:
    - Investigate outliers further. Understanding why some individuals deviate from the trend could provide insights into protective factors or additional stressors not captured by this dataset.
-
-Would you like assistance in building a predictive model or interpreting these results further?

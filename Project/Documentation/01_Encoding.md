@@ -195,5 +195,3 @@ df['Depression Label'] = df['Depression Label'].map(depression_mapping)
 
 - **Key Outcomes:**
   - After encoding, the dataset is numeric and ready for feature scaling, modeling, and evaluation.
-
-If you’d like, I can discuss how these encoded variables influence a specific model. Let me know!
